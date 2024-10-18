@@ -2,7 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Computational Mechanics</a>. Solid and Structural Mechanics 
+Shanghai Jiao Tong University
+School of Ocean and Civil Engineering
+Via Dongchuan 800, 200240 Shanghai, (China)
 
 profile:
   align: right
@@ -18,8 +21,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Computer Science Doctoral Student at Nanyang Technological University in Singapore, supervised by Prof. Dr Mo Li in the Wireless and Networked Distributed Sensing group.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focuses on resilient and efficient wireless communication, from ultra-low power communication, advanced spectrum sensing, interference detection and mitigation to intelligent jamming on the physical and message access control layer (LoRa, 4G/5G, UWB, ..). We aim to pair machine learning, signal processing, low-level RTL and analog design approaches with state-of-the-art software defined radio platforms to build robust and efficient wireless communication systems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Please reach out to me via Email with questions, suggestions, ideas or collaboration proposals.
+
+Please refer to the CV section for details about my career path, experiences and extracurricular activities.
