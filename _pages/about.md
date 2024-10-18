@@ -3,9 +3,6 @@ layout: about
 title: about
 permalink: /
 subtitle: <a href='#'>Computational Mechanics</a>. Solid and Structural Mechanics 
-Shanghai Jiao Tong University
-School of Ocean and Civil Engineering
-Via Dongchuan 800, 200240 Shanghai, (China)
 
 profile:
   align: right
