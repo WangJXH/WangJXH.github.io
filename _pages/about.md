@@ -41,5 +41,3 @@ Please reach out to me via Email with questions, suggestions, ideas or collabora
 
 Please refer to the CV section for details about my career path, experiences and extracurricular activities.
 
-===
-    My interests span around 5G &amp; Beyond, Future Communication Networks, Sustainability for Machine Learning &amp; Federated Learning, Cybersecurity and Cloud-native technologies. In the past, I worked in various areas around Connected and Autonomous Vehicles (CAVs), Cooperative Intelligent Transportation Systems (C-ITSs), Serverless Computing, Industrial Control Systems, and Digital Twins.
