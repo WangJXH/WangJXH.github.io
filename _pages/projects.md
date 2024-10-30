@@ -5,8 +5,8 @@ permalink: /projects/
 description: A list of projects that I was involved throughout the years.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
-horizontal: false
+display_categories: [Academic, Industrial]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
