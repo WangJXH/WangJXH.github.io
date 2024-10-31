@@ -29,7 +29,8 @@ horizontal: false
     </div>
   </div>
   {% else %}
-  <div class="row row-cols-1">
+  <!-- <div class="row row-cols-1"> -->
+  <div class="col-sm mt-3 mt-md-0">
     {% for project in sorted_projects %}
       {% include projects.liquid %}
     {% endfor %}
