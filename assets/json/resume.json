@@ -129,7 +129,7 @@
       "keywords": [
         "Solid Mechanics",
         "Computational Mechanics",
-        "Quantum Teleportation"
+        "Multiphysics Modelling"
       ]
     },
 {
@@ -162,15 +162,20 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Numerical Modelling",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Porous Media Mechanics",
+        "Nonlinear Mechanics",
+        "Applied Mechanics"
+      ]
+    },
+    {
+      "name": "Sport",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Tennis",
+        "Swimming"
       ]
     }
   ],
@@ -188,12 +193,11 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "folding screen design funded by OPPO Ltd ",
+      "summary": "Modelling the long term creep behavior of folding screen OCA materials",
+      "highlights": ["Creep", "OCA Materials", "Folding screen"],
+      "startDate": "2024-07-01",
+      "endDate": "2025-01-01"
     }
   ]
 }
