@@ -35,7 +35,7 @@
   ],
   "education": [
     {
-      "institution": "University of Padua, Padua, Italy",
+      "institution": "University of Padua, Italy",
       "location": "Venezia, Italy",
       "url": "https://www.unipd.it/",
       "area": "Civil Engineering",
@@ -43,58 +43,68 @@
       "startDate": "2019-10-01",
       "endDate": "2023-06-01",
       "score": "10"
+    },
+    {
+      "institution": "University of Stuttgart, Germany",
+      "location": "Stuttgart, Germany",
+      "url": "https://www.uni-stuttgart.de/en/",
+      "area": "Civil Engineering and Mechanics",
+      "studyType": "PhD",
+      "startDate": "2022-04-01",
+      "endDate": "2023-06-01",
+      "score": "10"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Full International scholarship",
+      "date": "2019-05-29",
+      "awarder": "University of Padova, Italy",
+      "summary": "For PhD study"
+    },
+    {
+      "title": "Full International scholarship",
+      "date": "2017-04-01",
+      "awarder": "Dusseldorf, Germany & HBUT, China",
+      "summary": "For Master Exchange study"
+    },
+    {
+      "title": "Top 10 Excellent Graduate Student",
+      "date": "2019-04-01",
+      "awarder": "Hubei University of Technology, China",
+      "summary": "Master Degree"
+    },
+    {
+      "title": "Excellent College Student",
+      "date": "2016-04-01",
+      "awarder": "Hubei University of Technology, China",
+      "summary": "Bachelor Degree"
     }
   ],
   "certificates": [
     {
       "name": "Theory of Porous Media",
       "date": "2022-05-01",
-      "issuer": "University of Stuttgart",
+      "issuer": "University of Stuttgart, Germany",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Writing User Subroutines with Abaqus",
+      "date": "2021-06-01",
+      "issuer": "Dassault Systèmes, France",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Computational Plasticity",
+      "date": "2021-09-01",
+      "issuer": "Universitat Politecnica de Catalunya, Spain",
       "icon": "fa-solid fa-envelope"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "National Computer Rank Examination Certification, C-Programming",
+      "date": "2016-04-21",
+      "issuer": "China Education Ministry",
       "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
@@ -136,7 +146,9 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
+        "Linux",
         "C++",
+        "Git",
         "Python",
         "Fortran"
       ]
