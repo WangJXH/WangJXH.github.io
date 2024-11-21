@@ -53,6 +53,16 @@
       "startDate": "2022-04-01",
       "endDate": "2023-06-01",
       "score": "10"
+    },
+    {
+      "institution": "Hubei University of Technology, China",
+      "location": "Wuhan, China",
+      "url": "https://www.hbut.edu.cn/",
+      "area": "Civil Engineering and Mechanics",
+      "studyType": "Master and Bachelor",
+      "startDate": "2012-09-01",
+      "endDate": "2019-06-01",
+      "score": "10"
     }
   ],
   "awards": [
@@ -204,7 +214,7 @@
   ],
   "projects": [
     {
-      "name": "folding screen design funded by OPPO Ltd ",
+      "name": "Mobile Folding Screen Design, funded by OPPO Cooperation ",
       "summary": "Modelling the long term creep behavior of folding screen OCA materials",
       "highlights": ["Creep", "OCA Materials", "Folding screen"],
       "startDate": "2024-07-01",
